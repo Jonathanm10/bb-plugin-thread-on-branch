@@ -1,6 +1,12 @@
 {
   "name": "bb-plugin-thread-on-branch",
   "version": "0.1.0",
+  "description": "Adds \"New thread on <branch>\" to every thread menu in bb.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonathanm10/bb-plugin-thread-on-branch.git"
+  },
   "type": "module",
   "engines": {
     "bb": ">=0.50",
@@ -16,7 +22,6 @@
     "app": "./app.tsx",
     "skills": []
   },
-  "dependencies": {},
   "devDependencies": {
     "@get-bb/plugin-sdk": "0.6.157",
     "@types/better-sqlite3": "^7.6.12",
