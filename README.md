@@ -1,6 +1,6 @@
 # bb-plugin-thread-on-branch
 
-A BB plugin that adds "New thread on <branch>" to every thread menu. Picking
+A BB plugin that adds "New thread on `<branch>`" to every thread menu. Picking
 it opens BB's new-thread screen with the source thread's project and
 environment selected, so the new thread works in the same checkout, on the
 same branch.

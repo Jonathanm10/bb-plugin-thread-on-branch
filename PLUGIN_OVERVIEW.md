@@ -1,6 +1,6 @@
 ## What you get
 
-- A "New thread on <branch>" item in every thread menu: right-click on a
+- A "New thread on `<branch>`" item in every thread menu: right-click on a
   sidebar row, the row's ⋯ menu, the thread header menu, and the compact
   long-press drawer. You can also add it to a row's quick actions with
   Customize actions.
